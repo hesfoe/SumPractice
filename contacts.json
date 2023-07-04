@@ -1,0 +1,27 @@
+{
+  "Sasha": {
+    "name": "Sasha",
+    "phoneNumber": "0985080034",
+    "email": "sanyadem377@gmail.com"
+  },
+  "Maks": {
+    "name": "Dima",
+    "phoneNumber": "123123123",
+    "email": "makisimKa@gmail.com"
+  },
+  "Ania": {
+    "name": "Ivan",
+    "phoneNumber": "222122312",
+    "email": "tutu.com"
+  },
+  "Edgar": {
+    "name": "Edgar",
+    "phoneNumber": "0687767534",
+    "email": "vatamanitsa@gmail.com"
+  },
+  "sasha": {
+    "name": "oleg",
+    "phoneNumber": "333",
+    "email": "zxc.com"
+  }
+}
